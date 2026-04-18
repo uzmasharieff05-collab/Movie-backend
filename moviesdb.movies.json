@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "688cdf75ba91217f845bc3b1"
+  },
+  "title": "Inception",
+  "rating": 8.8,
+  "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+  "poster": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "year": 2010,
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "duration": "148 min",
+  "downloadLink": "#",
+  "size": "2.1 GB",
+  "quality": "1080p"
+},
+{
+  "_id": {
+    "$oid": "688cdf75ba91217f845bc3b2"
+  },
+  "title": "The Dark Knight",
+  "rating": 9,
+  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests.",
+  "poster": "https://images.pexels.com/photos/7991434/pexels-photo-7991434.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "year": 2008,
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "duration": "152 min",
+  "downloadLink": "#",
+  "size": "2.3 GB",
+  "quality": "1080p"
+},
+{
+  "_id": {
+    "$oid": "688cdf75ba91217f845bc3b3"
+  },
+  "title": "Interstellar",
+  "rating": 8.6,
+  "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+  "poster": "https://images.pexels.com/photos/7991581/pexels-photo-7991581.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "year": 2014,
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "duration": "169 min",
+  "downloadLink": "#",
+  "size": "2.8 GB",
+  "quality": "1080p"
+},
+{
+  "_id": {
+    "$oid": "688cdf75ba91217f845bc3b4"
+  },
+  "title": "Pulp Fiction",
+  "rating": 8.9,
+  "description": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption.",
+  "poster": "https://images.pexels.com/photos/7991582/pexels-photo-7991582.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "year": 1994,
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "duration": "154 min",
+  "downloadLink": "#",
+  "size": "1.9 GB",
+  "quality": "1080p"
+},
+{
+  "_id": {
+    "$oid": "688cdf75ba91217f845bc3b5"
+  },
+  "title": "The Matrix",
+  "rating": 8.7,
+  "description": "A computer programmer is led to fight an underground war against powerful computers who have constructed his entire reality with a system called the Matrix.",
+  "poster": "https://images.pexels.com/photos/7991580/pexels-photo-7991580.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "year": 1999,
+  "genre": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "duration": "136 min",
+  "downloadLink": "#",
+  "size": "2.0 GB",
+  "quality": "1080p"
+},
+{
+  "_id": {
+    "$oid": "688cdf75ba91217f845bc3b6"
+  },
+  "title": "Goodfellas",
+  "rating": 8.7,
+  "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners.",
+  "poster": "https://images.pexels.com/photos/7991433/pexels-photo-7991433.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "year": 1990,
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "duration": "146 min",
+  "downloadLink": "#",
+  "size": "2.2 GB",
+  "quality": "1080p"
+}]

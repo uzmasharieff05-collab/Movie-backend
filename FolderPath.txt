@@ -1,0 +1,17 @@
+backend/
+│
+├── models/
+│   └── Movie.js
+│
+├── routes/
+│   └── movies.js
+│   └── auth.js
+│
+├── middleware/
+│   └── auth.js
+│
+├── uploads/
+│   └── [movie files if needed]
+│
+├── .env
+├── server.js
