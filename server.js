@@ -30,7 +30,7 @@ app.use('/api/invoice', invoiceRoutes);
 
 
 // MongoDB Connection
-mongoose.connect('mongodb://127.0.0.1:27017/movieDB')
+mongoose.connect('process.env.MONGO_URL')
   .then(() => console.log('✅ MongoDB Connected'))
   .catch(err => console.log('❌ MongoDB Error:', err));
 
